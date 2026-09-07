@@ -1,0 +1,15 @@
+{
+  "name": "autonomous-dealer-revenue-agent",
+  "version": "1.0.0",
+  "description": "Autonomous Dealer Revenue Agent — finds revenue opportunities and executes sales/service/retention actions from DMS/CRM data.",
+  "type": "module",
+  "main": "src/index.mjs",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "demo": "node src/index.mjs --limit=50 --verbose",
+    "run": "node src/index.mjs"
+  }
+}

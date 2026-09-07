@@ -1,0 +1,25 @@
+{
+  "summary": {
+    "totals": {
+      "attempts": 4568,
+      "delivered": 0,
+      "opened": 0,
+      "converted": 0,
+      "totalCost": 0,
+      "totalRevenue": 0,
+      "roi": 0
+    },
+    "byOpportunityType": {
+      "service_due": {
+        "count": 4568,
+        "converted": 0,
+        "expectedRevenue": 1279040,
+        "realizedRevenue": 0,
+        "cost": 0,
+        "roi": 0
+      }
+    }
+  },
+  "resultsCount": 4568,
+  "updatesOut": "D:\\Projects\\Automotive Dealer Revenue and Lead to Sales Agents\\output\\crm_updates.json"
+}
